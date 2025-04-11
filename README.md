@@ -74,4 +74,3 @@ bash run_all.sh
 
 This project is a strong example of how to apply interpretable Machine Learning to real-world marketing and e-commerce challenges.
 It is ideal for portfolios targeting positions in data science, machine learning, or analytics at top companies.
----
