@@ -69,7 +69,3 @@ pip install -r requirements.txt
 bash run_all.sh
 ```
 ---
-
-## 📌 Final Remarks
-
-This project is a strong example of how to apply interpretable Machine Learning to real-world marketing and e-commerce challenges.
